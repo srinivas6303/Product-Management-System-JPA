@@ -28,6 +28,6 @@ It allows you to perform CRUD operations on products, search for products by nam
    git clone https://github.com/your-username/PMS_JPA.git
    cd PMS_JPA
    ```
+   ![Screenshot 2025-02-03 150330](https://github.com/user-attachments/assets/b422f1d1-030e-4ae9-9ee6-4f86020ab379)
    ![Screenshot 2025-02-03 150358](https://github.com/user-attachments/assets/3d68c257-3ea3-44ce-b562-bbcf36fe7642)
-![Screenshot 2025-02-03 150330](https://github.com/user-attachments/assets/b422f1d1-030e-4ae9-9ee6-4f86020ab379)
-![Screenshot 2025-02-03 150243](https://github.com/user-attachments/assets/8e04cff2-812e-44c8-9121-53382c89187e)
+   ![Screenshot 2025-02-03 150243](https://github.com/user-attachments/assets/8e04cff2-812e-44c8-9121-53382c89187e)
